@@ -1,5 +1,5 @@
 # hello-world
-## I'm using this repository to explore Github's in's & out's
+## I'm using this repository to explore Github's ins & outs
 
 Hello,
 
