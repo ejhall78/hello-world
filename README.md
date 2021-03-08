@@ -1,5 +1,5 @@
 # hello-world
-A place where you store ideas, resources, or even share and discuss things with others
+## I'm using this repository to explore Github's in's & out's
 
 Hello,
 
